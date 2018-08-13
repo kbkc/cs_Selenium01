@@ -1,0 +1,10 @@
+C:\Users\mposo\Documents\MEGAsync\_Dev\cs_Selenium01\cs_Selenium01\bin\Debug\cs_Selenium01.exe.config
+C:\Users\mposo\Documents\MEGAsync\_Dev\cs_Selenium01\cs_Selenium01\bin\Debug\cs_Selenium01.exe
+C:\Users\mposo\Documents\MEGAsync\_Dev\cs_Selenium01\cs_Selenium01\bin\Debug\cs_Selenium01.pdb
+C:\Users\mposo\Documents\MEGAsync\_Dev\cs_Selenium01\cs_Selenium01\bin\Debug\WebDriver.dll
+C:\Users\mposo\Documents\MEGAsync\_Dev\cs_Selenium01\cs_Selenium01\bin\Debug\WebDriver.xml
+C:\Users\mposo\Documents\MEGAsync\_Dev\cs_Selenium01\cs_Selenium01\obj\Debug\cs_Selenium01.csproj.CoreCompileInputs.cache
+C:\Users\mposo\Documents\MEGAsync\_Dev\cs_Selenium01\cs_Selenium01\obj\Debug\cs_Selenium01.csproj.CopyComplete
+C:\Users\mposo\Documents\MEGAsync\_Dev\cs_Selenium01\cs_Selenium01\obj\Debug\cs_Selenium01.exe
+C:\Users\mposo\Documents\MEGAsync\_Dev\cs_Selenium01\cs_Selenium01\obj\Debug\cs_Selenium01.pdb
+C:\Users\mposo\Documents\MEGAsync\_Dev\cs_Selenium01\cs_Selenium01\obj\Debug\cs_Selenium01.csprojAssemblyReference.cache
